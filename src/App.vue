@@ -23,7 +23,7 @@ export default {
   data () {
     return {
       title: {
-        text: 'Price vs Volume'
+        text: 'Price vs Volume vs Market Cap'
       },
       tooltip: {
         visible: true,
@@ -50,6 +50,7 @@ export default {
   }
 }
 </script>
+
 
 <style>
 #app {
